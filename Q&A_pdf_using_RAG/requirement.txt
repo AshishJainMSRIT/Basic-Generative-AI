@@ -1,0 +1,13 @@
+langchain-pdf
+unstructured
+langchain-core
+langchain-unstructured
+unstructured-client
+langchain-text-splitters
+langchain-chroma
+langchain_google_genai
+chromadb
+streamlit
+python-dotenv
+langchain-community
+pypdf
